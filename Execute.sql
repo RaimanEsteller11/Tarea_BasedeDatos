@@ -1,0 +1,1 @@
+EXECUTE Lista @pUsuario = '', @pTipoPago = -1, @pTipoPlanilla = 2
